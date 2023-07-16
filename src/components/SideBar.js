@@ -108,7 +108,7 @@ const Sidebar = () => {
                 >
                   Abdullah Ashraf
                 </Typography>
-                <Typography variant="h5" color={colors.greenAccent[500]}>
+                <Typography variant="h5" color={colors.greenAccent[700]}>
                   MERN Stack Developer
                 </Typography>
               </Box>
